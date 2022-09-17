@@ -46,4 +46,4 @@ Users should be able to:
 
 - Frontend Mentor - [@whiney96](https://www.frontendmentor.io/profile/whiney96)
 - Twitter - [@uziwinnie](https://www.twitter.com/uziwinnie)
--LinkedIn - [@uziwinnie](https://www.linkedin.com/in/uziwinnie)
+- LinkedIn - [@uziwinnie](https://www.linkedin.com/in/uziwinnie)
