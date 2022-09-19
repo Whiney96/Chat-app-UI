@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Whiney96/Preview-card](https://github.com/Whiney96/Preview-card)
-- Live Site URL: [https://Whiney96.github.io/Preview-card](https://Whiney96.github.io/Preview-card)
+- Live Site URL: [https://Whiney96.github.io/Preview-card](https://whiney96.github.io/Preview-card/)
 
 ## My process
 
@@ -46,4 +46,4 @@ Users should be able to:
 
 - Frontend Mentor - [@whiney96](https://www.frontendmentor.io/profile/whiney96)
 - Twitter - [@uziwinnie](https://www.twitter.com/uziwinnie)
--LinkedIn - [@uziwinnie](https://www.linkedin.com/in/uziwinnie)
+- LinkedIn - [@uziwinnie](https://www.linkedin.com/in/uziwinnie)
